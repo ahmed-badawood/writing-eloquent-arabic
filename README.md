@@ -1,5 +1,9 @@
 # writing-eloquent-arabic
 
+> **📦 Now part of the `arabic` plugin.** Easiest install:
+> `/plugin marketplace add ahmed-badawood/claude-plugins` → `/plugin install arabic`
+> (bundles this + `designing-arabic-frontends`). This standalone repo is **archived/read-only**; the `npx skills add` command below still works but won't get updates.
+
 مهارة لـ Claude Code تكتب وتراجع المحتوى العربي للواجهات فتجعله بليغًا لا ركيكًا — تكشف الترجمة الحرفية المبنية على قواعد الإنجليزية وتعيد صياغتها بأسلوب عربي أصيل.
 
 A [Claude Code](https://claude.com/claude-code) skill that writes and reviews **Arabic UI copy** so it reads **بليغ, not ركيك**. It catches Arabic that is grammatical but secretly built on English grammar — literal calques, wrong register, robotic tone — and rewrites it in native Arabic structure.
