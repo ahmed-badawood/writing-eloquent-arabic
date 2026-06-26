@@ -1,7 +1,7 @@
 # writing-eloquent-arabic
 
-> **📦 Now part of the `arabic` plugin.** Easiest install:
-> `/plugin marketplace add ahmed-badawood/claude-plugins` → `/plugin install arabic`
+> **📦 Now part of the `sibawayh` plugin.** Easiest install:
+> `/plugin marketplace add ahmed-badawood/sibawayh` → `/plugin install sibawayh@sibawayh`
 > (bundles this + `designing-arabic-frontends`). This standalone repo is **archived/read-only**; the `npx skills add` command below still works but won't get updates.
 
 مهارة لـ Claude Code تكتب وتراجع المحتوى العربي للواجهات فتجعله بليغًا لا ركيكًا — تكشف الترجمة الحرفية المبنية على قواعد الإنجليزية وتعيد صياغتها بأسلوب عربي أصيل.
